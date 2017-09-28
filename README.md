@@ -30,7 +30,7 @@ npm test
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 
-##框架元素
+## 框架元素
 
 ```
 src/utils  ==> 基础功能封装，包括cookies，dom ，Axios的二次封装
