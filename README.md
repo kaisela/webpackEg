@@ -28,3 +28,15 @@ npm test
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
+##框架元素
+
+```
+src/utils  ==> 基础功能封装，包括cookies，dom ，Axios的二次封装
+src/plugins ==> 一些功能性组件的封装，项目中封装了嵌入式的错误提示
+src/views ==> 项目的页面模块
+src/components ==> 页面所包含的组件模块
+src/router ==> 项目的路由
+src/css ==> 总体项目的样式，引入了element的postcss-salad插件
+```
